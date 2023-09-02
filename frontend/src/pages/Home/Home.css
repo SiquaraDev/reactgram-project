@@ -1,0 +1,13 @@
+#home {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 2em;
+}
+
+.no-photos {
+    text-align: center;
+}
+
+.no-photos a {
+    color: #0094f6;
+}
